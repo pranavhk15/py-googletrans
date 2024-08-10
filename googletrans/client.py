@@ -5,9 +5,7 @@ A Translation module.
 You can translate text using this module.
 """
 import random
-import typing
 
-import httpcore
 import httpx
 from httpx import Timeout
 

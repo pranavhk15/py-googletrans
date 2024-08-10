@@ -35,7 +35,7 @@ def get_readme():
 
 def install():
     setup(
-        name='googletrans',
+        name='googletranshk',
         version=get_version(),
         description=get_description(),
         long_description=get_readme(),
